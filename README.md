@@ -13,39 +13,39 @@ Welcome to **EduLogin**, a School Management System developed in Java. This appl
 
 ### Login Page
 
-![Login Page](<img width="1091" height="685" alt="Screenshot 2024-11-08 205915" src="https://github.com/user-attachments/assets/acd56690-a80f-4529-8b89-bb1c37648c79" />
-)  
+<img width="1091" height="685" alt="Screenshot 2024-11-08 205915" src="https://github.com/user-attachments/assets/6d7d15c6-c95e-4553-9551-c27fdb52315e" />
+
 *Login screen with username, password, and user type selection.*
 
 ### Main Menu
 
-![Main Menu](<img width="1153" height="923" alt="Screenshot 2024-11-08 205934" src="https://github.com/user-attachments/assets/3995b255-10aa-402f-ac8b-5b4d8e5a6d4a" />
-)  
+<img width="1153" height="923" alt="Screenshot 2024-11-08 205934" src="https://github.com/user-attachments/assets/73d26957-7b38-4f08-8d76-88fba4d0b76b" />
+
 *Main menu for easy access to different school management modules.*
 
 ## Screensort
-#1
+##1
 <img width="1397" height="918" alt="Screenshot 2024-11-08 210000" src="https://github.com/user-attachments/assets/58cc7943-b52f-497c-8da9-0d51785e77b2" />
 
-#2
+##2
 <img width="1290" height="757" alt="Screenshot 2024-11-08 210027" src="https://github.com/user-attachments/assets/1036bce2-5cbb-48e1-8805-60df4fd54ff5" />
 
-#3
+##3
 <img width="1276" height="598" alt="Screenshot 2024-11-08 210052" src="https://github.com/user-attachments/assets/7315dcf7-8120-42f0-8489-d3f2b112eb88" />
 
-#4
+##4
 <img width="1332" height="971" alt="Screenshot 2024-11-08 210114" src="https://github.com/user-attachments/assets/6a23d697-e573-480f-939a-1d61e3154be9" />
 
-#5
+##5
 <img width="1350" height="756" alt="Screenshot 2024-11-08 210215" src="https://github.com/user-attachments/assets/85568122-1ab5-41f2-b29e-74667e4bddd9" />
 
-#6
+##6
 <img width="1517" height="985" alt="Screenshot 2024-11-08 210240" src="https://github.com/user-attachments/assets/b0be86a2-1f4b-4757-b3c0-9d33f989ac51" />
 
-#7
+##7
 <img width="1477" height="801" alt="Screenshot 2024-11-08 210301" src="https://github.com/user-attachments/assets/885afd95-3037-4bdd-80d7-43ede4942bc8" />
 
-#8
+##8
 <img width="1274" height="888" alt="Screenshot 2024-11-08 210323" src="https://github.com/user-attachments/assets/9475237c-a30d-4432-b15f-45dc7e02c9a6" />
 
 ## Modules
