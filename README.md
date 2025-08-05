@@ -94,5 +94,4 @@ This project is open source and free to use for educational purposes.
 **Developed by:** Naveen Kumar  
 
 ```
-Replace `<your-username>` and `<your-repo>` with your actual GitHub username and repository name.  
-Add more details about setup or modules if needed!
+
